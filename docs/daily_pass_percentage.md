@@ -1,44 +1,45 @@
-                                         Pass Rate
-codeql                                         0.0
-docker-chip-images                             0.0
-smoke-test-android                            50.0
-full-builds-android                           58.0
-cirque                                        71.0
-darwin-tests                                  79.0
-qemu                                          86.0
-unit-integration-tests                        86.0
-build-example-efr32                           86.0
-delete-old-artifacts                          92.0
-build-example-mbed-os                         93.0
-darwin                                        93.0
-tests                                         93.0
-build-example-bouffalolab                     93.0
-build-chef-ci-examples-on-all-platforms       93.0
-build-example-qpg                             93.0
-build-example-i-mx-linux                      93.0
-build-example-asr                             93.0
-builds                                        93.0
-build-example-linux-arm                       93.0
-build-example-ameba                           93.0
-build-example-stm32                           93.0
-build-example-ti-cc26x2x7                     93.0
-build-example-infineon                        93.0
-build-example-telink                          93.0
-build-example-linux-standalone                93.0
-build-example-ti-cc32xx                       93.0
-java-tests                                    93.0
-build-example-mw320                           93.0
-build-example-open-iot-sdk                    93.0
-build-example-k32w                            93.0
-build-example-tizen                           93.0
-minimal-build-linux-configure                 93.0
-build-example-nrf-connect-sdk                 93.0
-zap                                           93.0
-build-example-esp32                           93.0
-lint-code-base                                93.0
-recent-fail-summary                          100.0
-pull-request-labeler                         100.0
-documentation-build                          100.0
-issue-labeler                                100.0
-validate-gradle-wrapper                      100.0
-bloat-check                                  100.0
+|   Pass Rate |
+|------------:|
+|           0 |
+|           0 |
+|          50 |
+|          58 |
+|          71 |
+|          79 |
+|          86 |
+|          86 |
+|          86 |
+|          92 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|          93 |
+|         100 |
+|         100 |
+|         100 |
+|         100 |
+|         100 |
+|         100 |

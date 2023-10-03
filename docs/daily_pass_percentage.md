@@ -1,45 +1,45 @@
-|   Pass Rate |
-|------------:|
-|           0 |
-|           0 |
-|          50 |
-|          58 |
-|          71 |
-|          79 |
-|          86 |
-|          86 |
-|          86 |
-|          92 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|          93 |
-|         100 |
-|         100 |
-|         100 |
-|         100 |
-|         100 |
-|         100 |
+|                                         |   Pass Rate |
+|:----------------------------------------|------------:|
+| codeql                                  |           0 |
+| docker-chip-images                      |           0 |
+| smoke-test-android                      |          50 |
+| full-builds-android                     |          58 |
+| cirque                                  |          71 |
+| darwin-tests                            |          79 |
+| qemu                                    |          86 |
+| unit-integration-tests                  |          86 |
+| build-example-efr32                     |          86 |
+| delete-old-artifacts                    |          92 |
+| build-example-mbed-os                   |          93 |
+| darwin                                  |          93 |
+| tests                                   |          93 |
+| build-example-bouffalolab               |          93 |
+| build-chef-ci-examples-on-all-platforms |          93 |
+| build-example-qpg                       |          93 |
+| build-example-i-mx-linux                |          93 |
+| build-example-asr                       |          93 |
+| builds                                  |          93 |
+| build-example-linux-arm                 |          93 |
+| build-example-ameba                     |          93 |
+| build-example-stm32                     |          93 |
+| build-example-ti-cc26x2x7               |          93 |
+| build-example-infineon                  |          93 |
+| build-example-telink                    |          93 |
+| build-example-linux-standalone          |          93 |
+| build-example-ti-cc32xx                 |          93 |
+| java-tests                              |          93 |
+| build-example-mw320                     |          93 |
+| build-example-open-iot-sdk              |          93 |
+| build-example-k32w                      |          93 |
+| build-example-tizen                     |          93 |
+| minimal-build-linux-configure           |          93 |
+| build-example-nrf-connect-sdk           |          93 |
+| zap                                     |          93 |
+| build-example-esp32                     |          93 |
+| lint-code-base                          |          93 |
+| recent-fail-summary                     |         100 |
+| pull-request-labeler                    |         100 |
+| documentation-build                     |         100 |
+| issue-labeler                           |         100 |
+| validate-gradle-wrapper                 |         100 |
+| bloat-check                             |         100 |
